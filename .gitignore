@@ -72,4 +72,9 @@ venv/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+
+# build artifacts
+*.egg-info/
+build/
+dist/
 # End of https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,virtualenv
